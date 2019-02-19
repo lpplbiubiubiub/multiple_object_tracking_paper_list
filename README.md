@@ -25,12 +25,12 @@ IDF1 from [DUKE MTMCT](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniB
 ### MOTA
 
 |Title| Performance | Tags | Paper |
-|:-----:|:-----:|:-----:|:------:|:-----:|:---- |
+|:-----:|:-----:|:-----:|:------:|
 | Multiple People Tracking Using Hierarchical Deep Tracklet Re-identification|MOTA 53.6 on MOT16 <br> MOTA 54.1 on MOT17 | <kbd>Graph cut</kbd> <kbd>ReID</kbd> <kbd>Spatio-temporal Feature</kbd> <kbd>tracklet based</kbd>  <kbd>cluster</kbd> <kbd>RNN</kbd>| [paper](https://arxiv.org/pdf/1811.04091.pdf) |
 
 ### IDF1
 
 |Title| Datasets | Performance | Tags | Paper |
-|:-----:|:-----:|:-----:|:------:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:------:|
 
 
