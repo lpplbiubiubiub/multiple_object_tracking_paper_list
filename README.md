@@ -30,7 +30,7 @@ IDF1 from [DUKE MTMCT](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniB
 
 ### IDF1
 
-|Title| Datasets | Performance | Tags | Paper |
+|Title| Performance | Tags | Paper |
 |:-----:|:-----:|:-----:|:------:|
 
 
