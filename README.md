@@ -15,22 +15,41 @@ Refer to [SpederXu](https://github.com/SpyderXu/multi-object-tracking-paper-list
 -----
 ## Performance Measures
 
-MOTA from [clear MOT](https://link.springer.com/content/pdf/10.1155/2008/246309.pdf)
+MOTA from [CLEAR MOT](https://link.springer.com/content/pdf/10.1155/2008/246309.pdf)
 
 IDF1 from [DUKE MTMCT](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniBmtt16.pdf)
+
+DETRAC MOT metrics from [UA-DETRAC](http://detrac-db.rit.albany.edu/Tracking)
 
 -----
 ## Papers
 
+### Overview
+|Title | Tags | Paper |
+|:-----:|:-----:|:------:|
+|Tracking the Trackers:An Analysis of the State of the Art in Multiple Object Tracking|<kbd>Tracker comparing</kbd> <kbd>Standardized benchmark</kbd>||
+
 ### MOTA
 
-|Title| Performance | Tags | Paper |
+|Title|   Performance   | Tags | Paper |
 |:-----:|:-----:|:-----:|:------:|
-| Multiple People Tracking Using Hierarchical Deep Tracklet Re-identification|MOTA 53.6 on MOT16 <br> MOTA 54.1 on MOT17 | <kbd>Graph cut</kbd> <kbd>ReID</kbd> <kbd>Spatio-temporal Feature</kbd> <kbd>tracklet based</kbd>  <kbd>cluster</kbd> <kbd>RNN</kbd>| [paper](https://arxiv.org/pdf/1811.04091.pdf) |
-
+| Multiple People Tracking Using Hierarchical Deep Tracklet Re-identification|MOTA 53.6 on MOT16 PUBLIC <br> MOTA 54.1 on MOT17 | <kbd>Offline</kbd>  <kbd>Graph cut</kbd> <kbd>ReID</kbd> <kbd>Spatio-temporal Feature</kbd> <kbd>tracklet based</kbd>  <kbd>cluster</kbd> <kbd>RNN</kbd>| [paper](https://arxiv.org/pdf/1811.04091.pdf) |
+| Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering|MOTA 28.6 on MOT15 PUBLIC<br> MOTA 48.3 on MOT17 | <kbd>Online</kbd> <kbd>Historical appearance</kbd> <kbd>Scene adaptive</kbd> <kbd>Siamise network</kbd> | [paper](https://arxiv.org/pdf/1811.04091.pdf) |
 ### IDF1
 
-|Title| Performance | Tags | Paper |
+|Title|Performance | Tags | Paper |
 |:-----:|:-----:|:-----:|:------:|
+|Multiple Hypothesis Tracking Algorithm for Multi-Target Multi-Camera Tracking with Disjoint Views |IDF1 80.3 on single easy <br> IDF1 65.4 on multiple easy <br> IDF1 63.5 on single hard <br> IDF1 50.1 on multiple hard| <kbd>MHT</kbd> | |
+
+### Pose Track
+
+|Title|Performance | Tags | Paper |
+|:-----:|:-----:|:-----:|:------:|
+
+### Multi-Face Track
+
+|Title|Performance | Tags | Paper |
+|:-----:|:-----:|:-----:|:------:|
+
 
 
