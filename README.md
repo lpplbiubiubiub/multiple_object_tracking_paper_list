@@ -11,7 +11,8 @@ Refer to [SpederXu](https://github.com/SpyderXu/multi-object-tracking-paper-list
 |MOT15|This dataset includes sequneces from PETS09, KITTI, ETH, ... |[paper](https://arxiv.org/abs/1504.01942)|[link](https://motchallenge.net/data/2D_MOT_2015/)||
 |MOT16|This benchmark contains 14 challenging video sequences (7 training, 7 test) in unconstrained environments filmed with both static and moving cameras. Tracking and evaluation are done in image coordinates. All sequences have been annotated with high accuracy, strictly following a well-defined protocol.|[paper](https://arxiv.org/abs/1603.00831)|[link](https://motchallenge.net/data/MOT16/)|![img](data/imgs/MOT16.jpg)|
 |MOT17|MOT17 Challenge. All MOT16 sequences are used with a new, more accurate ground truth. Each sequences is provided with 3 sets of detections: DPM, Faster-RCNN, and SDP.||[link](https://motchallenge.net/data/MOT17/)|![img](data/imgs/MOT16.jpg)|
-|MTMCT|DukeMTMC aims to accelerate advances in multi-target multi-camera tracking. It provides a tracking system that works within and across cameras, a new large scale HD video data set recorded by 8 synchronized cameras with more than 7,000 single camera trajectories and over 2,000 unique identities, and a new performance evaluation method that measures how often a system is correct about who is where.|[paper](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniBmtt16.pdf)|[link](http://vision.cs.duke.edu/DukeMTMC/)|![img](/data/imgs/dataset-duke.jpg)|
+|DUKE_MTMCT|DukeMTMC aims to accelerate advances in multi-target multi-camera tracking. It provides a tracking system that works within and across cameras, a new large scale HD video data set recorded by 8 synchronized cameras with more than 7,000 single camera trajectories and over 2,000 unique identities, and a new performance evaluation method that measures how often a system is correct about who is where.|[paper](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniBmtt16.pdf)|[link](http://vision.cs.duke.edu/DukeMTMC/)|![img](/data/imgs/dataset-duke.jpg)|
+|NLPR_MCT|An equalised global graphical model based approach for multi-camera object tracking|[paper](https://arxiv.org/pdf/1502.03532.pdf)|[link](http://mct.idealtest.org/Datasets.html)|![image](data/imgs/NLPR_MCT.png)|
 -----
 ## Performance Measures
 
@@ -39,7 +40,7 @@ DETRAC MOT metrics from [UA-DETRAC](http://detrac-db.rit.albany.edu/Tracking)
 
 |Title|Performance | Tags | Paper |
 |:-----:|:-----:|:-----:|:------:|
-|Multiple Hypothesis Tracking Algorithm for Multi-Target Multi-Camera Tracking with Disjoint Views |IDF1 80.3 on single easy <br> IDF1 65.4 on multiple easy <br> IDF1 63.5 on single hard <br> IDF1 50.1 on multiple hard| <kbd>MHT</kbd> | |
+|Multiple Hypothesis Tracking Algorithm for Multi-Target Multi-Camera Tracking with Disjoint Views |IDF1 80.3 on single easy <br> IDF1 65.4 on multiple easy <br> IDF1 63.5 on single hard <br> IDF1 50.1 on multiple hard| <kbd>MHT</kbd> <kbd>Jointly SCT and MCT</kbd> <kbd>Tracking score</kbd>| |
 
 ### Pose Track
 
