@@ -35,6 +35,7 @@ DETRAC MOT metrics from [UA-DETRAC](http://detrac-db.rit.albany.edu/Tracking)
 |Title|   Performance   | Tags | Paper |
 |:-----:|:-----:|:-----:|:------:|
 | Multiple People Tracking Using Hierarchical Deep Tracklet Re-identification|MOTA 53.6 on MOT16 PUBLIC <br> MOTA 54.1 on MOT17 | <kbd>Offline</kbd>  <kbd>Graph cut</kbd> <kbd>ReID</kbd> <kbd>Spatio-temporal Feature</kbd> <kbd>tracklet based</kbd>  <kbd>cluster</kbd> <kbd>RNN</kbd>| [paper](https://arxiv.org/pdf/1811.04091.pdf) |
+| Online Multi-Object Tracking with Instance-Aware Tracker and Dynamic Model Refreshment|MOTA 38.9 on MOT15 PUBLIC<br> MOTA 48.8 on MOT16 | <kbd>Online</kbd> <kbd>SOT</kbd> <kbd> reinforcement learning</kbd> <kbd>KCF</kbd> <kbd>ReID</kbd> <kbd>Multi-cut</kbd>| [paper](https://arxiv.org/pdf/1902.08231.pdf) |
 | Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering|MOTA 28.6 on MOT15 PUBLIC<br> MOTA 48.3 on MOT17 | <kbd>Online</kbd> <kbd>Historical appearance</kbd> <kbd>Scene adaptive</kbd> <kbd>Siamise network</kbd> | [paper](https://arxiv.org/pdf/1811.04091.pdf) |
 ### IDF1
 
